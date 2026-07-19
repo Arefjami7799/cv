@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.heder-section{
+
+    background-color: rgb(228 , 253 , 253);
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+
+
+
+.heder-section h1{
+   font-family: 'Segoe Script' ;
+   font-size: 3rem;
+
+    
+}
+.heder-section h2{
+    margin-top: 50px;
+}
+
+
+h1 , h2 ,h3{
+    color: #62bfbf;
+    
+}
+
+.header-section #mountain{
+    width: 800px;
+    margin-left: 20%;
+}
+
+#cloud-1 , #cloud-2{
+    width: 200px;
+   
+
+
+}
+
+#cloud-1{
+
+     position: absolute;
+     top: 100px;
+     margin-left: 200px;
+}
+
+
+#ciod-2{
+    
+     position: absolute;
+     top: 150px;
+    left: 100px;
+
+}
+
+#aref{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+
+}
+.hell-section{
+    text-align: center;
+    width: 50%;
+    margin: 0px auto;
+}
+
+
+.hell-section #my-img{
+width: 200px;
+height: 200px;   
+border-radius: 100%; 
+margin: 100px  0px;
+
+}
+.hell-section h2{
+    margin-bottom: 50px;
+    text-align: center;
+    margin-right: 50px;
+}
+
+
+
+.my-skills{
+    text-align: center;
+    padding: 100px;
+}
+.skill-1{
+text-align: left;
+    margin-top: 70px;
+    margin: 70px auto ;
+    
+   
+}
+.skill-1 img{
+    float: left;
+    margin-right: 40px;
+}
+
+
+
+.skill-2{
+
+text-align: left;
+    margin-top: 70px;
+    margin: 70px auto ;
+    
+
+}
+
+.skill-2 img{
+    
+    float: right;
+    margin-left: 40px;
+}
+
+hr{
+    margin: 100px  auto;
+    width: 100px;
+    border: 8px dotted  #62bfbf;
+    border-bottom: 0px;
+   
+}
+
+
+
+
+

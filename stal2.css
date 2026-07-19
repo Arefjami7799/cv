@@ -1,0 +1,60 @@
+
+
+
+  
+#port-1{
+
+background-color: rgb(228, 253, 253);
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   margin: 20px;
+    color: #62bfbf;
+     display: inline-block;
+}
+img{
+    width: 300PX;
+    height: 200px;
+      
+}
+#port-2{
+
+
+
+background-color: rgb(228, 253, 253);
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   margin: 20px;
+    color: #62bfbf;
+       display: inline-block;
+}
+
+#port-3{
+    
+background-color: rgb(228, 253, 253);
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   margin: 20px;
+    color: #62bfbf;
+       display: inline-block;
+}
+#king{
+    text-align: center;
+}
+#heder{
+    
+    text-align: center;
+    color: #62bfbf;
+
+}
